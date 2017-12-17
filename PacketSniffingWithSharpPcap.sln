@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpPcap", "SharpPcap\SharpPcap.csproj", "{24262E52-1304-4A25-8F73-A3B06E40592E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySniffer", "MySniffer\MySniffer.csproj", "{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24262E52-1304-4A25-8F73-A3B06E40592E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24262E52-1304-4A25-8F73-A3B06E40592E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24262E52-1304-4A25-8F73-A3B06E40592E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{24262E52-1304-4A25-8F73-A3B06E40592E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{24262E52-1304-4A25-8F73-A3B06E40592E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{24262E52-1304-4A25-8F73-A3B06E40592E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24262E52-1304-4A25-8F73-A3B06E40592E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24262E52-1304-4A25-8F73-A3B06E40592E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{24262E52-1304-4A25-8F73-A3B06E40592E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{24262E52-1304-4A25-8F73-A3B06E40592E}.Release|x86.ActiveCfg = Release|Any CPU
+		{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}.Debug|x86.Build.0 = Debug|Any CPU
+		{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}.Release|x86.ActiveCfg = Release|Any CPU
+		{04ED5E5F-5875-4CBE-BD51-0A06580FA65B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SharpPcap\SharpPcap.csproj
+		Policies = $0
+		$0.TextStylePolicy = $3
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$3.FileWidth = 120
+		$3.NoTabsAfterNonTabs = True
+		$3.RemoveTrailingWhitespace = True
+		$3.inheritsSet = VisualStudio
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+EndGlobal
